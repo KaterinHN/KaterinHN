@@ -14,10 +14,12 @@ Soy profesional en Ingeniería de Sistemas con experiencia en control de calidad
 ---
 
 ### 📂 Proyectos Destacados de QA
-* **[01. Plan de Pruebas](./01-plan-de-pruebas/Plan_de_Pruebas_Ecommerce.md):** Objetivos, alcance, estrategia, entorno y criterios de aceptación.
-* **[02. Matriz de Casos de Prueba](./02-casos-de-prueba/Casos_de_Prueba_SauceDemo.md):** Casos positivos, negativos y exploratorios (Login, Carrito y Checkout).
-* **[03. Reporte de Defecto (BUG-001)](./03-reportes-de-bugs/BUG-001_Error_Checkout_Apellido.md):** Hallazgo crítico reproducible en el flujo de checkout con evidencia visual.
-* **[04. Validación de Datos en SQL](./04-validacion-sql/queries_validacion_ordenes.sql):** Consultas MySQL para verificar consistencia de órdenes, cálculos, duplicados e inventario.
+1. **[QA E-commerce End-to-End (SauceDemo)](./qa-ecommerce-portfolio)**  
+   *Plan de pruebas, matriz de casos (positivos, negativos y borde), reportes de bugs con evidencias y checklist de regresión.*
+2. **[Pruebas de API REST con Postman](./qa-api-testing-postman)**  
+   *Colección automatizada de endpoints (GET, POST, PUT, DELETE) con validación de códigos HTTP, tiempos de respuesta y assertions en JavaScript.*
+3. **[Validación de Datos con SQL](./qa-sql-data-validation)**  
+   *Consultas SQL orientadas a QA para verificar integridad referencial, consistencia de órdenes y validación de registros tras pruebas funcionales.*
 
 ---
 
