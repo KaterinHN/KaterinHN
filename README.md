@@ -16,9 +16,9 @@ Soy profesional en Ingeniería de Sistemas con experiencia en control de calidad
 ### 📂 Proyectos Destacados de QA
 1. **[QA E-commerce End-to-End (SauceDemo)](https://github.com/KaterinHN/qa-ecommerce-testing-portfolio)**  
    *Plan de pruebas, matriz de casos (positivos, negativos y borde), reportes de bugs con evidencias y checklist de regresión.*
-2. **[Pruebas de API REST con Postman](./qa-api-testing-postman)**  
+2. **[Pruebas de API REST con Postman](https://github.com/KaterinHN/qa-ecommerce-testing-portfolio))**  
    *Colección automatizada de endpoints (GET, POST, PUT, DELETE) con validación de códigos HTTP, tiempos de respuesta y assertions en JavaScript.*
-3. **[Validación de Datos con SQL](./qa-sql-data-validation)**  
+3. **[Validación de Datos con SQL](https://github.com/KaterinHN/qa-ecommerce-testing-portfolio))**  
    *Consultas SQL orientadas a QA para verificar integridad referencial, consistencia de órdenes y validación de registros tras pruebas funcionales.*
 
 ---
